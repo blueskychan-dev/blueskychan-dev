@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💡 &nbsp; Found a new idea, and doing it.
+- 💡  &nbsp; Found a new idea, and doing it.
 - 🎓 &nbsp; Studying at Benjamarachanusorn School (Sorry)
 - 💼 &nbsp; Working at BlueMyth Minecraft server project.
 - 🌱 &nbsp; Learning more about android project, kernel, etc.
