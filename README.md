@@ -38,7 +38,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://discord.gg/FuseNice#9999"><img alt="Discord" src="https://img.shields.io/badge/Discord-FuseNice%239999-pink?style=flat-square&logo=discord"></a>
+<a href="https://discord.gg/FuseMeowww#0001"><img alt="Discord" src="https://img.shields.io/badge/FuseMeowww%230001-pink?style=flat-square&logo=discord"></a>
   <a href="https://t.me/randomladyboyguy"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@randomladyboyguy-pink?style=flat-square&logo=telegram"></a>
 <a href="mailto:cuteladyboy@bluemyth.me"><img alt="Email" src="https://img.shields.io/badge/Email-cuteladyboy@bluemyth.me-pink?style=flat-square&logo=gmail"></a>
 </p>
