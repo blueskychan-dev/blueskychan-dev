@@ -7,6 +7,7 @@
 - 💼 &nbsp; Working at BlueMyth Minecraft server project.
 - 🌱 &nbsp; Learning more about android project, kernel, etc.
 - 👏 &nbsp; Also i'm age only 13 and i am transgender (MTF, or you can call femboy :3)
+- 🎯 &nbsp; Learning other programming language like golang
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
