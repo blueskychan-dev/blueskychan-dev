@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RandomLadyBoyGuy](https://github.com/RandomLadyBoyGuy)
 
-- 💬 Ask me about **idk**
+- 💬 Ask me about **I don't know**
 
 - 📫 How to reach me **phapoom@fusemeow.me**
 
@@ -30,8 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/phapoom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/phapoom" /></a><a href="https://ko-fi.com/https://ko-fi.com/phapoomsaksri"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/phapoomsaksri" /></a></p><br><br>
 
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomladyboyguy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomladyboyguy&layout=compact&theme=radical)
 
 <h1 align="center">Other stuff</h1>
 
