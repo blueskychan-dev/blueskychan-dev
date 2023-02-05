@@ -33,7 +33,7 @@
 
 
 
-
+<h1 align="center">Other stuff</h1>
 
 
 * Thanks for [Readme!](https://rahuldkjain.github.io/gh-profile-readme-generator/)
