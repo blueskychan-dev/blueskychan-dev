@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **phapoom@fusemeow.me**
 
-- ⚡ Fun fact **Computer is easy but why hard for many people?**
+- ⚡ Fun fact **osu! is too hard.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
