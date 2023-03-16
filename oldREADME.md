@@ -39,9 +39,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://discord.gg/FuseMeowww#0001"><img alt="Discord" src="https://img.shields.io/badge/Discord-FuseMeowww%230001-pink?style=flat-square&logo=discord"></a>
+<a href="https://discord.gg/FuseMeoww#0587"><img alt="Discord" src="https://img.shields.io/badge/Discord-FuseMeowww%230587-pink?style=flat-square&logo=discord"></a>
   <a href="https://t.me/randomladyboyguy"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@randomladyboyguy-pink?style=flat-square&logo=telegram"></a>
-<a href="mailto:cuteladyboy@bluemyth.me"><img alt="Email" src="https://img.shields.io/badge/Email-cuteladyboy@bluemyth.me-pink?style=flat-square&logo=gmail"></a>
+<a href="mailto:phapoom@fusemeow.me"><img alt="Email" src="https://img.shields.io/badge/Email-phapoom@fusemeow.me-pink?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
