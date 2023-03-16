@@ -1,3 +1,4 @@
+UNCLEAN MY EYE, REMOVE IT!!!
 <h1 align="center">Hi 👋, I'm Phapoom Saksri</h1>
 <h3 align="center">A thai kid are like computer and programming language.</h3>
 
