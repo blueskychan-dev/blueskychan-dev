@@ -1,4 +1,4 @@
-<h2> Hey there! I'm RandomLadyBoyGuy.</h2>
+<h2> Hey there! I'm blueskychan!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -39,8 +39,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://discord.com/users/736163902835916880"><img alt="Discord" src="https://img.shields.io/badge/Discord-FuseMeowww%230587-pink?style=flat-square&logo=discord"></a>
-  <a href="https://t.me/randomladyboyguy"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@randomladyboyguy-pink?style=flat-square&logo=telegram"></a>
+<a href="https://discord.com/users/736163902835916880"><img alt="Discord" src="https://img.shields.io/badge/Discord-blueskychan_%230587-pink?style=flat-square&logo=discord"></a>
+  <a href="https://t.me/blueskychan2009"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@blueskychan2009-pink?style=flat-square&logo=telegram"></a>
 <a href="mailto:phapoom@fusemeow.me"><img alt="Email" src="https://img.shields.io/badge/Email-phapoom@fusemeow.me-pink?style=flat-square&logo=gmail"></a>
 <a href="https://discord.com/users/736163902835916880"><img alt="Discord Profile" src="https://lanyard.cnrad.dev/api/736163902835916880?bg=ffb6c1"></a>
 </p>
