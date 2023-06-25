@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💡  &nbsp; Found a new idea, and doing it.
-- 🎓 &nbsp; Studying at Benjamarachanusorn School (Sorry)
+- 🎓 &nbsp; Studying at Benjamarachanusorn School (M.2/4 is gay)
 - 💼 &nbsp; Working at BlueMyth Minecraft server project.
 - 🌱 &nbsp; Learning more about android project, kernel, etc.
 - 👏 &nbsp; ~~Also i'm age only 13 and i am transgender (MTF, or you can call femboy :3)~~ (Acting like a girl a bit)
