@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💡  &nbsp; Found a new idea, and doing it.
-- 🎓 &nbsp; Studying at Benjamarachanusorn School (M.2/4 is gay)
+- 🎓 &nbsp; Studying at Benjamarachanusorn School
 - 💼 &nbsp; Working at Android development project.
 - 🌱 &nbsp; Learning more about android project, kernel, etc.
-- 👏 &nbsp; ~~Also i'm age only 13 and i am transgender (MTF, or you can call femboy :3)~~ (Acting like a girl a bit)
+- 👏 &nbsp; Acting like a girl a bit >3
 - 🎯 &nbsp; Learning other programming language like golang
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
