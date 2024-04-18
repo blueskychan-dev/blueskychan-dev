@@ -1,6 +1,6 @@
 <h2> Hey there! I'm blueskychan!</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
 - 💡  &nbsp; Found a new idea, and doing it.
 - 🎓 &nbsp; Studying at Benjamarachanusorn School
