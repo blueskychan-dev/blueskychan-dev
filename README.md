@@ -38,8 +38,9 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://discord.com/users/736163902835916880"><img alt="Discord Profile" src="https://lanyard.cnrad.dev/api/736163902835916880?bg=ffb6c1"></a>
+
+<p align=center>
+<div align=center><a href="https://discord.com/users/736163902835916880"><img alt="Discord Profile" src="https://lanyard.cnrad.dev/api/736163902835916880?bg=ffb6c1"></a></div>
 <a href="https://discord.com/users/736163902835916880"><img alt="Discord" src="https://img.shields.io/badge/Discord-blueskychan_%230587-pink?style=flat-square&logo=discord"></a>
 <a href="https://t.me/bskychan"><img alt="Telegram" src="https://img.shields.io/badge/My Telegram Channel-pink?style=flat-square&logo=telegram"></a>
 <a href="mailto:mind@blueskychan.dev"><img alt="Email" src="https://img.shields.io/badge/Email-mind@blueskychan.dev-pink?style=flat-square&logo=gmail"></a>
