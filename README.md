@@ -8,7 +8,7 @@
 - 🗓️ My age is **14 years old** and age is **doesn't matter** for my **learning** (17 December)
 - ✨ I am transfems/genderfluid :3 ([she/her or they/them](https://en.pronouns.page/@blueskychan_))
 - 💡 I like learning new **things** (like programming language)
-- 🎓 I study in [Benjamarachanusorn School](https://bs.ac.th)
+- 🎓 I study in [Benjamarachanusorn School](https://bs.ac.th), and i start learn C# since 2021 and C++ since 2022
 - 🖥️ I currently developed in [osu!somtum](https://somtum.fun), [notmycode](https://notmycode.dev) and more! (personal project)
 -   🌱 I like to learning about linux, internet, computer, hardware and tech stuff!
 - 💭 My Dream is be a girl and transfems programmer :3
