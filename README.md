@@ -30,8 +30,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Bangkok
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -40,7 +38,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/05/2024 12:47:51 UTC
+ Last Updated on 19/05/2024 12:54:06 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
