@@ -27,6 +27,77 @@
 # 📊 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskychan-dev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskychan-dev&&layout=compact&theme=radical)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 34 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+🌆 Daytime                44 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌃 Evening                119 commits         ██████████████░░░░░░░░░░░   54.09 % 
+🌙 Night                  47 commits          █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   44 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Wednesday                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Thursday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Friday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Saturday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Sunday                   53 commits          ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C#** 
+
+```text
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/blueskychan-dev/blueskychan-dev/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/05/2024 12:27:14 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
