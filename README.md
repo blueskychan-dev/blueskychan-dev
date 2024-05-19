@@ -12,7 +12,7 @@
 - 🖥️ I currently developed in [osu!somtum](https://somtum.fun), [notmycode](https://notmycode.dev) and more! (personal project)
 -   🌱 I like to learning about linux, internet, computer, hardware and tech stuff!
 - 💭 My Dream is be a girl and transfems programmer :3
-- ❤️ I like yuri, anime, osu! and few more :3
+- ❤️ I like yuri, anime, [osu!](https://osu.ppy.sh) and few more :3
 - 🙃 Also i like to test my product security and networking, that why my github repository have a lot of attacking software (I no longer development one of them)
 
 # 💻 Languages/Frameworks I'm good at:
