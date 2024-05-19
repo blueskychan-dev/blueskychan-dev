@@ -26,6 +26,8 @@
 
 # 📊 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskychan-dev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskychan-dev&&layout=compact&theme=radical)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # ✈️ My Social Media
 <p style="text-align: center; padding: 0; margin: 0;">
