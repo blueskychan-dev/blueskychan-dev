@@ -27,10 +27,6 @@
 # 📊 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskychan-dev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskychan-dev&&layout=compact&theme=radical)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -46,20 +42,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in C#** 
 
-```text
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-```
-
-
-
-
- Last Updated on 19/05/2024 12:40:45 UTC
+ Last Updated on 19/05/2024 12:44:36 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
