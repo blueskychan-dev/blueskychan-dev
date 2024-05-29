@@ -31,15 +31,14 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 mins              ███████████████████████░░   93.07 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/05/2024 00:52:03 UTC
+ Last Updated on 29/05/2024 00:55:23 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
