@@ -31,14 +31,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 10 mins        ████████████████████████░   95.92 % 
+SSH Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 10 mins        ████████████████████████░   95.92 % 
+Windows                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 
- Last Updated on 30/05/2024 00:52:12 UTC
+ Last Updated on 31/05/2024 00:53:11 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
