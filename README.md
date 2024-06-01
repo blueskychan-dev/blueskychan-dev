@@ -27,6 +27,20 @@
 # 📊 My Overall Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskychan-dev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskychan-dev&&layout=compact&theme=radical)
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 37 mins        ████████████████████████░   97.04 % 
+SSH Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+
+💻 Operating System: 
+Linux                    1 hr 37 mins        ████████████████████████░   97.04 % 
+Windows                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+```
+
+
+ Last Updated on 01/06/2024 08:39:12 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
