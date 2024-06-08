@@ -68,7 +68,7 @@ Windows                  41 mins             ███████████�
   </div>
 <p align="center">
 <a href="https://discord.com/users/736163902835916880"><img alt="Discord" src="https://img.shields.io/badge/Discord-@blueskychan_-pink?style=flat-square&logo=discord"></a>
-<a href="https://t.me/sleepysister403"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@sleepysister403-pink?style=flat-square&logo=telegram"></a>
+<a href="https://t.me/mindhas403"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@mindhas403-pink?style=flat-square&logo=telegram"></a>
 <a href="mailto:mind@blueskychan.dev"><img alt="Email" src="https://img.shields.io/badge/Email-mind@blueskychan.dev-pink?style=flat-square&logo=gmail"></a>
 <a href="https://blueskychan.dev"><img alt="My Website" src="https://img.shields.io/badge/🌐 My Website-blueskychan.dev-pink?style=flat-square"></a>
 </p>
@@ -84,5 +84,8 @@ If you like one of my repository or project, you can donate me in KO-Fi! (buy me
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueskychan-dev&label=Profile%20views&color=C9A9A6&style=flat" alt="blueskychan-dev" /> </p>
 </div>
 
-**Lastest update in 1 June 2024 (Happy pride day! 🌈)**
+**Lastest update in 8 June 2024 (Happy pride month! 🌈)**
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/blueskychan-dev/blueskychan.dev/main/public/illust_111261733_20231222_212212.jpg');]{x0000}$}
 
