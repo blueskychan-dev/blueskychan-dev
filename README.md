@@ -85,6 +85,3 @@ If you like one of my repository or project, you can donate me in KO-Fi! (buy me
 </div>
 
 **Lastest update in 8 June 2024 (Happy pride month! 🌈)**
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://blueskychan.dev/bg.jpg');]{x0000}$}
