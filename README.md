@@ -13,16 +13,16 @@
 -   🌱 I like to learning about linux, internet, computer, hardware and tech stuff!
 - 💭 My Dream is be a girl and transfem programmer :3
 - ❤️ I like yuri, anime, [osu!](https://osu.ppy.sh) and few more :3
-- 🙃 Also i like to test my product security and networking, that why my github repository have a lot of attacking software (I no longer development one of them)
+- 🙃 Also i like to test my product security and networking, that why my github repository have a lot of attacking software (I no longer development one of them!)
 
 # 💻 Languages/Frameworks I'm good at:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://web.archive.org/web/20240421215857/https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 # 📚 Languages/Frameworks I'm learning:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 # 🖥️ Environments I work with:
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)![Windows11](https://web.archive.org/web/20231119201228/https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)![Visual Studio Code](https://web.archive.org/web/20231215203656/https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Visual Studio](https://web.archive.org/web/20231214215021/https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 # 📊 My Overall Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskychan-dev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskychan-dev&&layout=compact&theme=radical)
@@ -64,7 +64,7 @@ Linux                    24 mins             ███████████�
 <a href="mailto:mind@blueskychan.dev"><img alt="Email" src="https://img.shields.io/badge/Email-mind@blueskychan.dev-pink?style=flat-square&logo=gmail"></a>
 <a href="https://blueskychan.dev"><img alt="My Website" src="https://img.shields.io/badge/🌐 My Website-blueskychan.dev-pink?style=flat-square"></a>
 </p>
-<p align="center">See more in my <a href="linktr.ee/blueskychan">linktree!</a></p>
+<p align="center">See more in my <a href="https://linktr.ee/blueskychan">linktree!</a></p>
 
 # ☕ Support my work
 If you like one of my repository or project, you can donate me in KO-Fi! (buy me a coffee)
@@ -76,4 +76,4 @@ If you like one of my repository or project, you can donate me in KO-Fi! (buy me
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueskychan-dev&label=Profile%20views&color=C9A9A6&style=flat" alt="blueskychan-dev" /> </p>
 </div>
 
-**Lastest update in 8 June 2024 (Happy pride month! 🌈)**
+**Lastest update in 24 Augest 2024**
