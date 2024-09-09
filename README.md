@@ -27,24 +27,8 @@
 # 📊 My Overall Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskychan-dev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskychan-dev&&layout=compact&theme=radical)
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-C#                       10 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-BSSmart-Remake-DiscordBot10 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 08/09/2024 01:04:16 UTC
+ Last Updated on 09/09/2024 01:01:32 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
