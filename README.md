@@ -5,7 +5,7 @@
 
 # 👩‍💻 About me!
 - ✏️ My Name is **Phapoom Saksri** (Nickname can be **Mind**) Knowns as FuseNice/PC1266/Randomladyboyguy! (I am from thailand 🇹🇭)
-- 🗓️ My age is **14 years old** and age is **doesn't matter** for my **learning** (17 December)
+- 🗓️ My age is **15 years old** and age is **doesn't matter** for my **learning** (17 December)
 - ✨ I am transfems/genderfluid :3 ([she/her or they/them](https://en.pronouns.page/@blueskychan_))
 - 💡 I like learning new **things** (like programming language)
 - 🎓 I study in [Benjamarachanusorn School](https://bs.ac.th), and i start learn C# since 2021 and C++ since 2022
@@ -83,4 +83,4 @@ If you like one of my repository or project, you can donate me in KO-Fi! (buy me
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueskychan-dev&label=Profile%20views&color=C9A9A6&style=flat" alt="blueskychan-dev" /> </p>
 </div>
 
-**Lastest update in 11 September 2024**
+**Lastest update in 17 December 2024**
