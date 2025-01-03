@@ -69,8 +69,8 @@ Linux                    2 hrs 25 mins       ███████████�
 <a href="https://discord.com/users/736163902835916880"><img alt="Discord" src="https://img.shields.io/badge/Discord-@blueskychan_-pink?style=flat-square&logo=discord"></a>
 <a href="https://t.me/mindhas403"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@mindhas403-pink?style=flat-square&logo=telegram"></a>
 <a href="https://qm.qq.com/q/zpH3dw0U6c"><img alt="qq" src="https://img.shields.io/badge/QQ-@mindhas404-pink?style=flat-square&logo=tencent-qq"></a>
-<a href="mailto:mind@blueskychan.dev"><img alt="Email" src="https://img.shields.io/badge/Email-mind@blueskychan.dev-pink?style=flat-square&logo=gmail"></a>
-<a href="https://blueskychan.dev"><img alt="My Website" src="https://img.shields.io/badge/🌐 My Website-blueskychan.dev-pink?style=flat-square"></a>
+<a href="mailto:blueskychan@notmycode.dev"><img alt="Email" src="https://img.shields.io/badge/Email-blueskychan@notmycode.dev-pink?style=flat-square&logo=gmail"></a>
+<a href="https://mind.notmycode.dev"><img alt="My Website" src="https://img.shields.io/badge/🌐 My Website-mind.notmycode.dev-pink?style=flat-square"></a>
 </p>
 <p align="center">See more in my <a href="https://linktr.ee/blueskychan">linktree!</a></p>
 
@@ -84,4 +84,4 @@ If you like one of my repository or project, you can donate me in KO-Fi! (buy me
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueskychan-dev&label=Profile%20views&color=C9A9A6&style=flat" alt="blueskychan-dev" /> </p>
 </div>
 
-**Lastest update in 17 December 2024**
+**Lastest update in 3 January 2025**
