@@ -31,21 +31,20 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 18 mins             ███████████████████████░░   93.73 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-blueskychan.dev          20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/06/2025 01:14:35 UTC
+ Last Updated on 13/06/2025 01:15:41 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
