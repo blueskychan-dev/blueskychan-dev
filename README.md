@@ -9,7 +9,7 @@
 - ✨ I am transfems/genderfluid :3 ([she/her or they/them](https://en.pronouns.page/@blueskychan_))
 - 💡 I like learning new **things** (like programming language)
 - 🎓 I study in [Benjamarachanusorn School](https://bs.ac.th), and i start learn C# since 2021 and C++ since 2022
-- 🖥️ I currently developed in [osu!somtum](https://somtum.fun), [notmycode](https://notmycode.dev) and more! (personal project)
+- 🖥️ I’m currently developing and contributing to [osu!somtum](https://somtum.fun) (a personal project about osu! private server), [TechTransThai](https://www.techtransthai.org/) (an open-source community), and more!
 -   🌱 I like to learning about linux, internet, computer, hardware and tech stuff!
 - 💭 My Dream is be a girl and transfem programmer :3
 - ❤️ I like yuri, anime, [osu!](https://osu.ppy.sh) and few more :3
