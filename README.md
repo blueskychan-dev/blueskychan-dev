@@ -31,20 +31,20 @@
 
 ```text
 💬 Programming Languages: 
-Devicetree               6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/08/2025 01:18:59 UTC
+ Last Updated on 25/08/2025 01:14:28 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
