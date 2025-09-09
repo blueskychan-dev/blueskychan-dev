@@ -31,20 +31,21 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 mins              ██████████████████████░░░   87.46 % 
+Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/09/2025 01:11:44 UTC
+ Last Updated on 09/09/2025 01:08:51 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
