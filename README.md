@@ -27,8 +27,24 @@
 # 📊 My Overall Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskychan-dev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskychan-dev&&layout=compact&theme=radical)
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 03/10/2025 01:06:32 UTC
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/10/2025 01:04:05 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
