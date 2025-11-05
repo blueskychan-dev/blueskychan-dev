@@ -27,8 +27,29 @@
 # 📊 My Overall Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskychan-dev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskychan-dev&&layout=compact&theme=radical)
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/11/2025 01:12:40 UTC
+```text
+💬 Programming Languages: 
+C                        41 mins             ████████░░░░░░░░░░░░░░░░░   33.08 % 
+Bash                     34 mins             ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+Other                    21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Makefile                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+android_kernel_samsung_a21 hr 35 mins        ███████████████████░░░░░░   76.67 % 
+android_kernel_samsung_sm29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+
+💻 Operating System: 
+Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 05/11/2025 01:14:11 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
