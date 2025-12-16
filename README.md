@@ -5,7 +5,7 @@
 
 # 👩‍💻 About me!
 - ✏️ My Name is **Phapoom Saksri** (Nickname can be **Mind**) Knowns as FuseNice/PC1266/Randomladyboyguy! (I am from thailand 🇹🇭)
-- 🗓️ My age is **15 years old** and age is **doesn't matter** for my **learning** (17 December)
+- 🗓️ My age is **16 years old** and age is **doesn't matter** for my **learning** (17 December)
 - ✨ I am transfems/genderfluid :3 ([she/her or they/them](https://en.pronouns.page/@blueskychan_))
 - 💡 I like learning new **things** (like programming language)
 - 🎓 I study in [Benjamarachanusorn School](https://bs.ac.th), and i start learn C# since 2021 and C++ since 2022
