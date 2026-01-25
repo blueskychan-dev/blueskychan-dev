@@ -31,21 +31,20 @@
 
 ```text
 💬 Programming Languages: 
-C++                      13 mins             █████████████████████████   98.57 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-summerfemboy             13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/01/2026 01:18:43 UTC
+ Last Updated on 25/01/2026 01:28:24 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
