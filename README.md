@@ -31,27 +31,27 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 55 mins             █████████████░░░░░░░░░░░░   51.60 % 
-C                        14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Makefile                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Markdown                 55 mins             █████████░░░░░░░░░░░░░░░░   37.46 % 
+Other                    32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+C                        25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Makefile                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-keepandroidopen.github.io1 hr                ██████████████░░░░░░░░░░░   56.34 % 
-Kernel-A205F             42 mins             ██████████░░░░░░░░░░░░░░░   39.04 % 
-android_kernel_samsung_a24 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-android_kernel_samsung_r00 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+keepandroidopen.github.io1 hr                ██████████░░░░░░░░░░░░░░░   40.90 % 
+android_kernel_samsung_a244 mins             ████████░░░░░░░░░░░░░░░░░   30.16 % 
+Kernel-A205F             42 mins             ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+android_kernel_samsung_r00 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Linux                    1 hr 48 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/03/2026 01:46:53 UTC
+ Last Updated on 03/03/2026 01:49:12 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
