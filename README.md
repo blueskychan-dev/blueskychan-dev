@@ -31,27 +31,28 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 55 mins             █████████░░░░░░░░░░░░░░░░   37.46 % 
-Other                    32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-C                        25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Makefile                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Markdown                 55 mins             ████████░░░░░░░░░░░░░░░░░   30.20 % 
+Other                    36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Bash                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+C                        27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Makefile                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-keepandroidopen.github.io1 hr                ██████████░░░░░░░░░░░░░░░   40.90 % 
-android_kernel_samsung_a244 mins             ████████░░░░░░░░░░░░░░░░░   30.16 % 
-Kernel-A205F             42 mins             ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-android_kernel_samsung_r00 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+keepandroidopen.github.io1 hr                ████████░░░░░░░░░░░░░░░░░   32.98 % 
+android_kernel_samsung_a244 mins             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Kernel-A205F             42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+android_kernel_samsung_a235 mins             █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+android_kernel_samsung_r00 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Linux                    2 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/03/2026 01:49:12 UTC
+ Last Updated on 04/03/2026 01:43:23 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
