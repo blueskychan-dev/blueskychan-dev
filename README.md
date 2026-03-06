@@ -31,28 +31,28 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Other                    51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Bash                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-C                        39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Makefile                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Bash                     1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+C                        1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Markdown                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Makefile                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-android_kernel_samsung_a21 hr 31 mins        ██████████░░░░░░░░░░░░░░░   39.49 % 
-keepandroidopen.github.io1 hr                ███████░░░░░░░░░░░░░░░░░░   26.27 % 
-Kernel-A205F             42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-android_kernel_samsung_a235 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-android_kernel_samsung_r00 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+android_kernel_samsung_a21 hr 52 mins        █████████░░░░░░░░░░░░░░░░   36.14 % 
+keepandroidopen.github.io1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+android_kernel_samsung_a250 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Kernel-A205F             42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+android_kernel_samsung_a229 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 
 💻 Operating System: 
-Linux                    3 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/03/2026 01:46:24 UTC
+ Last Updated on 06/03/2026 01:48:03 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
