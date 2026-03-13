@@ -31,28 +31,24 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-Bash                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-C                        23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+JavaScript               1 hr 3 mins         ████████████░░░░░░░░░░░░░   47.20 % 
+Markdown                 32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+HTML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fossasia-hackathon2026   2 hrs 14 mins       ████████████████░░░░░░░░░   63.23 % 
-android_kernel_samsung_a229 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-android_kernel_samsung_a220 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-android_kernel_samsung_a214 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+fossasia-hackathon2026   2 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/03/2026 01:42:59 UTC
+ Last Updated on 13/03/2026 01:45:37 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
