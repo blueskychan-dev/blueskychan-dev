@@ -31,24 +31,20 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 3 mins         ████████████░░░░░░░░░░░░░   47.20 % 
-Markdown                 32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-HTML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fossasia-hackathon2026   2 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/03/2026 01:47:44 UTC
+ Last Updated on 18/03/2026 01:52:23 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
