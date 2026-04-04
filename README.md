@@ -31,23 +31,24 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 mins              █████████████░░░░░░░░░░░░   51.41 % 
-Text                     4 mins              ██████████░░░░░░░░░░░░░░░   41.07 % 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JavaScript               1 hr 32 mins        █████████████████░░░░░░░░   66.58 % 
+Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-iamteacher-fork          11 mins             █████████████████████████   100.00 % 
+iamteacher-fork          2 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2026 01:56:55 UTC
+ Last Updated on 04/04/2026 01:50:00 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
