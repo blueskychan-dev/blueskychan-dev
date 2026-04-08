@@ -31,24 +31,26 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 32 mins        █████████████████░░░░░░░░   66.58 % 
-Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+JavaScript               1 hr 34 mins        ███████████████░░░░░░░░░░   61.50 % 
+Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-iamteacher-fork          2 hrs 18 mins       █████████████████████████   100.00 % 
+iamteacher-fork          2 hrs 18 mins       ██████████████████████░░░   89.69 % 
+blueskychan.dev          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+MindTheNerd-Monitor      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2026 01:59:54 UTC
+ Last Updated on 08/04/2026 02:00:56 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
