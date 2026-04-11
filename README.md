@@ -31,28 +31,28 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 28 mins        ██████████████░░░░░░░░░░░   56.02 % 
-Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-TypeScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+TypeScript               42 mins             █████████████░░░░░░░░░░░░   53.13 % 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+JavaScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-iamteacher-fork          2 hrs 6 mins        ████████████████████░░░░░   79.86 % 
-osu-lazer-web            13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-blueskychan.dev          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-MindTheNerd-Monitor      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-bancho.py-somtum         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+somtum-hardcoded         36 mins             ███████████░░░░░░░░░░░░░░   45.80 % 
+blueskychan.dev          21 mins             ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+osu-lazer-web            13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+MindTheNerd-Monitor      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+bancho.py-somtum         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 💻 Operating System: 
-Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/04/2026 02:05:48 UTC
+ Last Updated on 11/04/2026 01:54:17 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
