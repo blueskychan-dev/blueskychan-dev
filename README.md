@@ -83,4 +83,4 @@ If you like one of my repository or project, you can donate me in KO-Fi! (buy me
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueskychan-dev&label=Profile%20views&color=C9A9A6&style=flat" alt="blueskychan-dev" /> </p>
 </div>
 
-**Lastest update in 13 July 2025**
+**Lastest update in 13 April 2026**
