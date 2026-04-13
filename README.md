@@ -25,7 +25,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora%20Linux-1793D1?logo=fedora&logoColor=fff&style=for-the-badge)![Visual Studio Code](https://web.archive.org/web/20231215203656/https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 # 📊 My Overall Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskychan-dev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskychan-dev&&layout=compact&theme=radical)
+![Stats](./profile/stats.svg)
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
