@@ -58,17 +58,16 @@ Linux                    1 hr 20 mins        ███████████�
 # ✈️ My Social Media
 <p style="text-align: center; padding: 0; margin: 0;">
   <div style="text-align: center;">
-    <a href="https://discord.com/users/736163902835916880">
-      <p align="center"><img alt="Discord Profile" src="https://lanyard.cnrad.dev/api/736163902835916880?bg=ffb6c1">
+    <a href="https://discord.com/users/1094273003115786274">
+      <p align="center"><img alt="Discord Profile" src="https://lanyard.cnrad.dev/api/1094273003115786274?bg=ffb6c1">
     </a></p>
   </div>
 </p>
     </a>
   </div>
 <p align="center">
-<a href="https://discord.com/users/736163902835916880"><img alt="Discord" src="https://img.shields.io/badge/Discord-@blueskychan_-pink?style=flat-square&logo=discord"></a>
+<a href="https://discord.com/users/1094273003115786274"><img alt="Discord" src="https://img.shields.io/badge/Discord-@mindhas403-pink?style=flat-square&logo=discord"></a>
 <a href="https://t.me/mindhas403"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@mindhas403-pink?style=flat-square&logo=telegram"></a>
-<a href="https://qm.qq.com/q/zpH3dw0U6c"><img alt="qq" src="https://img.shields.io/badge/QQ-@mindhas404-pink?style=flat-square&logo=tencent-qq"></a>
 <a href="mailto:hello@mindhas403.dev"><img alt="Email" src="https://img.shields.io/badge/Email-hello@mindhas403.dev-pink?style=flat-square&logo=gmail"></a>
 <a href="https://mindhas403.dev"><img alt="My Website" src="https://img.shields.io/badge/🌐 My Website-mindhas403.dev-pink?style=flat-square"></a>
 </p>
