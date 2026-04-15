@@ -31,28 +31,27 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               42 mins             █████████████░░░░░░░░░░░░   53.13 % 
-Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-JavaScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+TypeScript               36 mins             ██████████████░░░░░░░░░░░   56.32 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Git Config               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-somtum-hardcoded         36 mins             ███████████░░░░░░░░░░░░░░   45.80 % 
-blueskychan.dev          21 mins             ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-osu-lazer-web            13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-MindTheNerd-Monitor      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-bancho.py-somtum         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+somtum-hardcoded         36 mins             ██████████████░░░░░░░░░░░   57.09 % 
+osu-lazer-web            13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+blueskychan.dev          11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+bancho.py-somtum         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 💻 Operating System: 
-Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/04/2026 02:06:26 UTC
+ Last Updated on 15/04/2026 02:03:21 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
