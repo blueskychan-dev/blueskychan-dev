@@ -31,27 +31,25 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               36 mins             ██████████████░░░░░░░░░░░   56.32 % 
-Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Git Config               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+TypeScript               25 mins             █████████████░░░░░░░░░░░░   52.63 % 
+Markdown                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Git Config               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-somtum-hardcoded         36 mins             ██████████████░░░░░░░░░░░   57.09 % 
-osu-lazer-web            13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-blueskychan.dev          11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-bancho.py-somtum         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+somtum-hardcoded         36 mins             ███████████████████░░░░░░   75.98 % 
+blueskychan.dev          11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
 
 💻 Operating System: 
-Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
+Linux                    48 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/04/2026 02:11:03 UTC
+ Last Updated on 17/04/2026 02:07:20 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
