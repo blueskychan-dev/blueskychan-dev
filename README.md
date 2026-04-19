@@ -31,25 +31,20 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               25 mins             █████████████░░░░░░░░░░░░   52.63 % 
-Markdown                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Git Config               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-somtum-hardcoded         36 mins             ███████████████████░░░░░░   75.98 % 
-blueskychan.dev          11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/04/2026 01:58:20 UTC
+ Last Updated on 19/04/2026 02:11:49 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
