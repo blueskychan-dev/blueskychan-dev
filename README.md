@@ -27,25 +27,8 @@
 # 📊 My Overall Stats
 ![Stats](./profile/stats.svg)
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Python                   12 mins             █████████████░░░░░░░░░░░░   53.03 % 
-JSON                     11 mins             ████████████░░░░░░░░░░░░░   46.97 % 
-
-🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-fetch_stupid_post        24 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 02:43:10 UTC
+ Last Updated on 15/05/2026 02:43:38 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
