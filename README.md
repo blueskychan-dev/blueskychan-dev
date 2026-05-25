@@ -31,29 +31,29 @@
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 9 mins         ███████████████████░░░░░░   77.72 % 
-Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C                        1 hr 9 mins         ███████████████████░░░░░░   74.54 % 
+Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-Claude Code              1 hr 27 mins        ████████████████████████░   97.71 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Claude Code              1 hr 27 mins        ███████████████████████░░   93.71 % 
+VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 🐱‍💻 Projects: 
-VibeCE-Emu               1 hr 10 mins        ████████████████████░░░░░   78.69 % 
-VibeGameBoy-Emu          14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-somtum-hardcoded         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-ominachan_checker        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-bot                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+VibeCE-Emu               1 hr 10 mins        ███████████████████░░░░░░   75.46 % 
+VibeGameBoy-Emu          14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+somtum-hardcoded         6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+ominachan_checker        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+bot                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Linux                    1 hr 29 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2026 02:48:31 UTC
+ Last Updated on 25/05/2026 02:57:11 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
