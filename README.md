@@ -27,8 +27,34 @@
 # 📊 My Overall Stats
 ![Stats](./profile/stats.svg)
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/05/2026 02:46:43 UTC
+```text
+💬 Programming Languages: 
+Python                   7 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.55 % 
+TypeScript               6 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.96 % 
+Markdown                 4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+
+🔥 Editors: 
+Claude Code              17 hrs 29 mins      ██████████████████████░░░   89.54 % 
+Vscodium                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+
+🐱‍💻 Projects: 
+bancho.py                11 hrs 15 mins      ██████████████░░░░░░░░░░░   57.61 % 
+somtum-hardcoded         7 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.15 % 
+circlecore-somtum        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+dev                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Downloads                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+💻 Operating System: 
+Linux                    19 hrs 31 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 29/05/2026 13:43:20 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
