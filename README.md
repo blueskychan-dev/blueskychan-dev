@@ -31,29 +31,30 @@
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   38.66 % 
-TypeScript               8 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.02 % 
-Markdown                 6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-YAML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Python                   12 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   37.39 % 
+TypeScript               10 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   30.02 % 
+Markdown                 9 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+SQL                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Bash                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 42 mins      █████████████████░░░░░░░░   66.04 % 
-Vscodium                 7 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-VS Code                  1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Claude Code              17 hrs 30 mins      █████████████░░░░░░░░░░░░   50.48 % 
+Vscodium                 14 hrs 53 mins      ███████████░░░░░░░░░░░░░░   42.93 % 
+VS Code                  2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🐱‍💻 Projects: 
-bancho.py                16 hrs              ███████████████░░░░░░░░░░   59.72 % 
-somtum-hardcoded         10 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   38.66 % 
-circlecore-somtum        25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-holdtimeanalyzer         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+bancho.py                20 hrs 58 mins      ███████████████░░░░░░░░░░   60.46 % 
+somtum-hardcoded         13 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   37.75 % 
+circlecore-somtum        26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Somtum-dev               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+holdtimeanalyzer         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    26 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/06/2026 03:31:38 UTC
+ Last Updated on 03/06/2026 03:38:22 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
