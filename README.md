@@ -31,31 +31,31 @@
 
 ```text
 💬 Programming Languages: 
-Python                   13 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   35.86 % 
-TypeScript               13 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   34.15 % 
-Markdown                 8 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-Bash                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+TypeScript               12 hrs              █████████░░░░░░░░░░░░░░░░   35.80 % 
+Python                   9 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Markdown                 8 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-Vscodium                 16 hrs 48 mins      ███████████░░░░░░░░░░░░░░   43.28 % 
-Claude Code              13 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   35.29 % 
-Codex CLI                5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-VS Code                  2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Vscodium                 15 hrs 16 mins      ███████████░░░░░░░░░░░░░░   45.58 % 
+Claude Code              9 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+Codex CLI                6 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+VS Code                  2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 🐱‍💻 Projects: 
-bancho.py                22 hrs 7 mins       ██████████████░░░░░░░░░░░   56.96 % 
-somtum-hardcoded         15 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   40.86 % 
-circlecore-somtum        29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Somtum-dev               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-holdtimeanalyzer         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+bancho.py                18 hrs 8 mins       ██████████████░░░░░░░░░░░   54.12 % 
+somtum-hardcoded         14 hrs 33 mins      ███████████░░░░░░░░░░░░░░   43.44 % 
+Somtum-dev               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+circlecore-somtum        17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+mind                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Linux                    38 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    33 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/06/2026 02:56:07 UTC
+ Last Updated on 06/06/2026 02:43:07 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
