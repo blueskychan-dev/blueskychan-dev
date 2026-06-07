@@ -31,31 +31,33 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs              █████████░░░░░░░░░░░░░░░░   35.80 % 
-Python                   9 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Markdown                 8 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   12 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   30.94 % 
+TypeScript               11 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+Markdown                 10 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+C#                       47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Bash                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-Vscodium                 15 hrs 16 mins      ███████████░░░░░░░░░░░░░░   45.58 % 
-Claude Code              9 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-Codex CLI                6 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-VS Code                  2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Vscodium                 20 hrs 9 mins       █████████████░░░░░░░░░░░░   51.21 % 
+Claude Code              10 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Codex CLI                6 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+VS Code                  1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Visual Studio            46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🐱‍💻 Projects: 
-bancho.py                18 hrs 8 mins       ██████████████░░░░░░░░░░░   54.12 % 
-somtum-hardcoded         14 hrs 33 mins      ███████████░░░░░░░░░░░░░░   43.44 % 
-Somtum-dev               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-circlecore-somtum        17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-mind                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+bancho.py                19 hrs 47 mins      █████████████░░░░░░░░░░░░   50.30 % 
+somtum-hardcoded         13 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   35.19 % 
+osu-patcher              2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+circlecore-somtum        1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+somtum-discord-bot       1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 💻 Operating System: 
-Linux                    33 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    37 hrs              ████████████████████████░   94.07 % 
+Windows                  2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 ```
 
 
- Last Updated on 06/06/2026 02:43:07 UTC
+ Last Updated on 07/06/2026 03:25:55 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
