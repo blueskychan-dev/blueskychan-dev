@@ -31,27 +31,24 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 43 mins             ████████████░░░░░░░░░░░░░   48.70 % 
-HTML                     32 mins             █████████░░░░░░░░░░░░░░░░   36.40 % 
-Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Markdown                 43 mins             ██████████████░░░░░░░░░░░   54.44 % 
+HTML                     32 mins             ██████████░░░░░░░░░░░░░░░   40.69 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        ███████████████████████░░   93.47 % 
-Claude Code              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+VS Code                  1 hr 13 mins        ███████████████████████░░   92.70 % 
+Claude Code              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 🐱‍💻 Projects: 
-somtum-news              41 mins             ████████████░░░░░░░░░░░░░   46.52 % 
-mindhas403.dev           38 mins             ███████████░░░░░░░░░░░░░░   42.92 % 
-bancho.py                9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+somtum-news              41 mins             █████████████░░░░░░░░░░░░   52.01 % 
+mindhas403.dev           38 mins             ████████████░░░░░░░░░░░░░   47.99 % 
 
 💻 Operating System: 
-Linux                    1 hr 28 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/06/2026 03:36:02 UTC
+ Last Updated on 18/06/2026 03:28:46 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
