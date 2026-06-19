@@ -31,24 +31,29 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 43 mins             ██████████████░░░░░░░░░░░   54.44 % 
-HTML                     32 mins             ██████████░░░░░░░░░░░░░░░   40.69 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Markdown                 1 hr 42 mins        ███████████████░░░░░░░░░░   59.71 % 
+HTML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+C                        27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        ███████████████████████░░   92.70 % 
-Claude Code              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Claude Code              1 hr 37 mins        ██████████████░░░░░░░░░░░   56.82 % 
+VS Code                  1 hr 13 mins        ███████████░░░░░░░░░░░░░░   43.18 % 
 
 🐱‍💻 Projects: 
-somtum-news              41 mins             █████████████░░░░░░░░░░░░   52.01 % 
-mindhas403.dev           38 mins             ████████████░░░░░░░░░░░░░   47.99 % 
+qemu-galaxys             1 hr 13 mins        ███████████░░░░░░░░░░░░░░   42.86 % 
+somtum-news              41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+mindhas403.dev           38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+CODE_I9000XXJW4_CL10439379 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+SAMFW.COM_GT-I9000_XEU_I93 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/06/2026 03:28:46 UTC
+ Last Updated on 19/06/2026 03:50:52 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
