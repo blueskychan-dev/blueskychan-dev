@@ -31,28 +31,31 @@
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 28 mins        ██████████████░░░░░░░░░░░   54.73 % 
-Markdown                 44 mins             ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-Binary                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+C#                       1 hr 30 mins        █████████████░░░░░░░░░░░░   51.40 % 
+Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Binary                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 19 mins       ██████████████████████░░░   86.13 % 
-Visual Studio            22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Claude Code              2 hrs 29 mins       █████████████████████░░░░   84.69 % 
+Visual Studio            22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🐱‍💻 Projects: 
-osu                      1 hr 26 mins        █████████████░░░░░░░░░░░░   53.05 % 
-SimpleProxy              58 mins             █████████░░░░░░░░░░░░░░░░   36.02 % 
-MindTheNerd              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-osu-patcher              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+osu                      1 hr 26 mins        ████████████░░░░░░░░░░░░░   48.92 % 
+SimpleProxy              51 mins             ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+ai-proxy                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+MindTheNerd              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+mindhas403.dev           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 💻 Operating System: 
-Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 28 mins       █████████████████████░░░░   84.18 % 
+Linux                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 ```
 
 
- Last Updated on 28/06/2026 02:58:04 UTC
+ Last Updated on 29/06/2026 03:25:49 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
