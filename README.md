@@ -31,24 +31,21 @@
 
 ```text
 💬 Programming Languages: 
-C#                       2 mins              █████████████░░░░░░░░░░░░   50.39 % 
-Markdown                 1 min               ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Caddyfile                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+C#                       1 min               ███████████████████████░░   93.94 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TomYum                   5 mins              █████████████████████████   100.00 % 
+TomYum                   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/07/2026 02:38:21 UTC
+ Last Updated on 06/07/2026 02:43:08 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
