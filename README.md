@@ -31,21 +31,20 @@
 
 ```text
 💬 Programming Languages: 
-C#                       1 min               ███████████████████████░░   93.94 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TomYum                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/07/2026 02:43:08 UTC
+ Last Updated on 07/07/2026 02:39:03 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
