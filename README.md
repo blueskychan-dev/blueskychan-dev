@@ -31,24 +31,27 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 21 mins        ████████████████░░░░░░░░░   64.62 % 
-C#                       26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Markdown                 1 hr 26 mins        ████████████░░░░░░░░░░░░░   46.67 % 
+C#                       59 mins             ████████░░░░░░░░░░░░░░░░░   32.00 % 
+JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 6 mins        █████████████████████████   100.00 % 
+Claude Code              2 hrs 46 mins       ███████████████████████░░   90.25 % 
+VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 
 🐱‍💻 Projects: 
-somtum-patcher           2 hrs 6 mins        █████████████████████████   100.00 % 
+somtum-patcher           2 hrs 38 mins       █████████████████████░░░░   85.66 % 
+bot                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+mindhas403.dev           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 💻 Operating System: 
-Linux                    2 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/07/2026 02:33:14 UTC
+ Last Updated on 11/07/2026 02:09:28 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
