@@ -27,6 +27,8 @@
 # 📊 My Overall Stats
 ![Stats](./profile/stats.svg)
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2036%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -43,8 +45,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 02:29:18 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 28/07/2026 02:04:08 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
