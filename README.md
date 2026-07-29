@@ -27,32 +27,52 @@
 # 📊 My Overall Stats
 ![Stats](./profile/stats.svg)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2036%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+INI                      40 mins             █████████░░░░░░░░░░░░░░░░   37.40 % 
+Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Python                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 27 mins        ████████████████████░░░░░   81.13 % 
+VS Code                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+GreenMessenger           1 hr 47 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 47 mins (100.0%)
+
+✍️ 4,862 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 16,513,185 Input Tokens, 184,124 Output Tokens
+
+💵 $86.97 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 19 AI Prompts
+
+Opus                     4,888 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 4,075 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 02:04:08 UTC
+ Last Updated on 29/07/2026 02:07:27 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
