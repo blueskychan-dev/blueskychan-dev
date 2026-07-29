@@ -27,6 +27,8 @@
 # 📊 My Overall Stats
 ![Stats](./profile/stats.svg)
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2024%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -48,31 +50,8 @@ GreenMessenger           1 hr 47 mins        ███████████�
 Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
 
-```text
-⏱ AI Coding Time: 1 hr 47 mins (100.0%)
-
-✍️ 4,862 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 16,513,185 Input Tokens, 184,124 Output Tokens
-
-💵 $86.97 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 19 AI Prompts
-
-Opus                     4,888 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,075 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
- Last Updated on 29/07/2026 02:07:27 UTC
+ Last Updated on 29/07/2026 18:30:06 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
