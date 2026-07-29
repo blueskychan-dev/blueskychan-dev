@@ -28,5 +28,6 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
           SHOW_TIMEZONE: "False"
+          SHOW_AI_CODING: "False"
           
           
