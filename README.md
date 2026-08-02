@@ -31,25 +31,29 @@
 
 ```text
 💬 Programming Languages: 
-INI                      40 mins             █████████░░░░░░░░░░░░░░░░   37.40 % 
-Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Python                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+INI                      40 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+C#                       33 mins             ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Other                    26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Python                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 
 🔥 Editors: 
-Claude Code              1 hr 27 mins        ████████████████████░░░░░   81.13 % 
-VS Code                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Claude Code              1 hr 48 mins        ███████████████████░░░░░░   75.43 % 
+VS Code                  20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Visual Studio            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 
 🐱‍💻 Projects: 
-GreenMessenger           1 hr 47 mins        █████████████████████████   100.00 % 
+GreenMessenger           1 hr 47 mins        ███████████████████░░░░░░   75.31 % 
+MindTheNerd              32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+MINDTH~1                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 💻 Operating System: 
-Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 47 mins        ███████████████████░░░░░░   75.31 % 
+Windows                  35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
 ```
 
 
- Last Updated on 01/08/2026 02:23:15 UTC
+ Last Updated on 02/08/2026 02:20:24 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
