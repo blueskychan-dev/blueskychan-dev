@@ -31,29 +31,27 @@
 
 ```text
 💬 Programming Languages: 
-C#                       57 mins             ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-INI                      40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Binary                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Other                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+C#                       57 mins             ████████████░░░░░░░░░░░░░   49.86 % 
+Binary                   36 mins             ████████░░░░░░░░░░░░░░░░░   31.63 % 
+Python                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 13 mins       ████████████████░░░░░░░░░   64.70 % 
-Visual Studio            52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-VS Code                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Claude Code              1 hr 2 mins         ██████████████░░░░░░░░░░░   54.17 % 
+Visual Studio            52 mins             ███████████░░░░░░░░░░░░░░   45.83 % 
 
 🐱‍💻 Projects: 
-GreenMessenger           1 hr 47 mins        █████████████░░░░░░░░░░░░   52.17 % 
-MindTheNerd              1 hr 32 mins        ███████████░░░░░░░░░░░░░░   44.48 % 
-MINDTH~1                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+MindTheNerd              1 hr 32 mins        ████████████████████░░░░░   80.10 % 
+GreenMessenger           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+MINDTH~1                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 💻 Operating System: 
-Linux                    1 hr 47 mins        █████████████░░░░░░░░░░░░   52.17 % 
-Windows                  1 hr 38 mins        ████████████░░░░░░░░░░░░░   47.83 % 
+Windows                  1 hr 38 mins        ██████████████████████░░░   86.13 % 
+Linux                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 ```
 
 
- Last Updated on 04/08/2026 02:02:50 UTC
+ Last Updated on 05/08/2026 02:01:42 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
