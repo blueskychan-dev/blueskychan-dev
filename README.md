@@ -31,27 +31,24 @@
 
 ```text
 💬 Programming Languages: 
-C#                       57 mins             ████████████░░░░░░░░░░░░░   49.86 % 
-Binary                   36 mins             ████████░░░░░░░░░░░░░░░░░   31.63 % 
-Python                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+C#                       57 mins             ██████████████░░░░░░░░░░░   57.89 % 
+Binary                   36 mins             █████████░░░░░░░░░░░░░░░░   36.72 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-Claude Code              1 hr 2 mins         ██████████████░░░░░░░░░░░   54.17 % 
-Visual Studio            52 mins             ███████████░░░░░░░░░░░░░░   45.83 % 
+Visual Studio            52 mins             █████████████░░░░░░░░░░░░   53.21 % 
+Claude Code              46 mins             ████████████░░░░░░░░░░░░░   46.79 % 
 
 🐱‍💻 Projects: 
-MindTheNerd              1 hr 32 mins        ████████████████████░░░░░   80.10 % 
-GreenMessenger           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-MINDTH~1                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+MindTheNerd              1 hr 32 mins        ███████████████████████░░   93.00 % 
+MINDTH~1                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        ██████████████████████░░░   86.13 % 
-Linux                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/08/2026 02:01:42 UTC
+ Last Updated on 06/08/2026 02:05:54 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
