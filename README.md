@@ -31,20 +31,25 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   43 mins             ███████████░░░░░░░░░░░░░░   43.26 % 
+HTML                     28 mins             ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+C++                      27 mins             ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 11 mins        ██████████████████░░░░░░░   72.06 % 
+Claude Code              27 mins             ███████░░░░░░░░░░░░░░░░░░   27.94 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pid_following            1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/08/2026 00:55:50 UTC
+ Last Updated on 19/08/2026 00:56:41 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
