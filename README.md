@@ -31,30 +31,30 @@
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 29 mins        █████████████░░░░░░░░░░░░   52.82 % 
-Binary                   44 mins             ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-XML                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+C#                       2 hrs 11 mins       ███████████████░░░░░░░░░░   59.12 % 
+Binary                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔥 Editors: 
-Claude Code              1 hr 22 mins        ████████████░░░░░░░░░░░░░   48.64 % 
-Visual Studio            1 hr 12 mins        ███████████░░░░░░░░░░░░░░   42.80 % 
-Codex Vscode             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Visual Studio            2 hrs 5 mins        ██████████████░░░░░░░░░░░   56.42 % 
+Claude Code              1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   37.06 % 
+Codex Vscode             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🐱‍💻 Projects: 
-Ripple                   2 hrs 11 mins       ███████████████████░░░░░░   77.96 % 
-MindTheNerd              31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-MINDTH~1                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-System32                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Ripple                   2 hrs 11 mins       ███████████████░░░░░░░░░░   59.39 % 
+MindTheNerd              1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   38.19 % 
+MINDTH~1                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+System32                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/08/2026 00:59:50 UTC
+ Last Updated on 27/08/2026 06:54:37 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
