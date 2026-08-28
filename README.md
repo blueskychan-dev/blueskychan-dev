@@ -31,30 +31,27 @@
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 11 mins       ███████████████░░░░░░░░░░   59.12 % 
-Binary                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+C#                       59 mins             ███████████░░░░░░░░░░░░░░   43.73 % 
+Binary                   43 mins             ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 5 mins        ██████████████░░░░░░░░░░░   56.42 % 
-Claude Code              1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   37.06 % 
-Codex Vscode             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Visual Studio            2 hrs               ██████████████████████░░░   89.30 % 
+Codex Vscode             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🐱‍💻 Projects: 
-Ripple                   2 hrs 11 mins       ███████████████░░░░░░░░░░   59.39 % 
-MindTheNerd              1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   38.19 % 
-MINDTH~1                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-System32                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+MindTheNerd              1 hr 20 mins        ███████████████░░░░░░░░░░   59.75 % 
+Ripple                   52 mins             ██████████░░░░░░░░░░░░░░░   38.64 % 
+System32                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/08/2026 06:54:37 UTC
+ Last Updated on 28/08/2026 08:42:40 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
