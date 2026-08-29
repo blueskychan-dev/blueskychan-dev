@@ -31,27 +31,24 @@
 
 ```text
 💬 Programming Languages: 
-C#                       59 mins             ███████████░░░░░░░░░░░░░░   43.73 % 
-Binary                   43 mins             ████████░░░░░░░░░░░░░░░░░   32.46 % 
-Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+C#                       58 mins             ██████████████░░░░░░░░░░░   57.64 % 
+Binary                   30 mins             ████████░░░░░░░░░░░░░░░░░   30.16 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs               ██████████████████████░░░   89.30 % 
-Codex Vscode             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Visual Studio            1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MindTheNerd              1 hr 20 mins        ███████████████░░░░░░░░░░   59.75 % 
-Ripple                   52 mins             ██████████░░░░░░░░░░░░░░░   38.64 % 
-System32                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+MindTheNerd              1 hr 8 mins         █████████████████░░░░░░░░   66.99 % 
+Ripple                   33 mins             ████████░░░░░░░░░░░░░░░░░   33.01 % 
 
 💻 Operating System: 
-Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/08/2026 08:42:40 UTC
+ Last Updated on 29/08/2026 05:20:12 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
