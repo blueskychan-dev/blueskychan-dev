@@ -31,24 +31,22 @@
 
 ```text
 💬 Programming Languages: 
-C#                       58 mins             ██████████████░░░░░░░░░░░   57.64 % 
-Binary                   30 mins             ████████░░░░░░░░░░░░░░░░░   30.16 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+C#                       56 mins             ████████████████████░░░░░   81.82 % 
+Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 42 mins        █████████████████████████   100.00 % 
+Visual Studio            1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MindTheNerd              1 hr 8 mins         █████████████████░░░░░░░░   66.99 % 
-Ripple                   33 mins             ████████░░░░░░░░░░░░░░░░░   33.01 % 
+MindTheNerd              1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/08/2026 05:20:12 UTC
+ Last Updated on 30/08/2026 03:14:33 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
