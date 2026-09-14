@@ -31,20 +31,24 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     11 mins             █████████████░░░░░░░░░░░░   53.13 % 
+CSS                      8 mins              ██████████░░░░░░░░░░░░░░░   38.43 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             13 mins             ████████████████░░░░░░░░░   63.07 % 
+Visual Studio            7 mins              █████████░░░░░░░░░░░░░░░░   36.93 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+html                     21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/09/2026 02:48:11 UTC
+ Last Updated on 14/09/2026 03:02:16 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
