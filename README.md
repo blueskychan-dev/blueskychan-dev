@@ -31,26 +31,22 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     11 mins             █████████████░░░░░░░░░░░░   53.03 % 
-CSS                      8 mins              ██████████░░░░░░░░░░░░░░░   38.36 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+XML                      0 secs              ██████████████░░░░░░░░░░░   54.51 % 
+C#                       0 secs              ███████████░░░░░░░░░░░░░░   45.49 % 
 
 🔥 Editors: 
-Codex Vscode             13 mins             ████████████████░░░░░░░░░   62.95 % 
-Visual Studio            7 mins              █████████░░░░░░░░░░░░░░░░   37.05 % 
+Visual Studio            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-html                     21 mins             █████████████████████████   99.81 % 
-Ripple                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Ripple                   0 secs              ██████████████░░░░░░░░░░░   54.51 % 
+MindTheNerd              0 secs              ███████████░░░░░░░░░░░░░░   45.49 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/09/2026 03:02:30 UTC
+ Last Updated on 21/09/2026 02:59:40 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
