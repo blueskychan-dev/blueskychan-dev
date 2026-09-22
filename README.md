@@ -31,22 +31,20 @@
 
 ```text
 💬 Programming Languages: 
-XML                      0 secs              ██████████████░░░░░░░░░░░   54.51 % 
-C#                       0 secs              ███████████░░░░░░░░░░░░░░   45.49 % 
+C#                       0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 Visual Studio            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Ripple                   0 secs              ██████████████░░░░░░░░░░░   54.51 % 
-MindTheNerd              0 secs              ███████████░░░░░░░░░░░░░░   45.49 % 
+MindTheNerd              0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/09/2026 02:59:40 UTC
+ Last Updated on 22/09/2026 02:59:31 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
