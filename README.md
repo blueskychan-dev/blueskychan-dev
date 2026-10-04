@@ -31,30 +31,30 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 30 mins             ████████████░░░░░░░░░░░░░   47.20 % 
-C#                       21 mins             █████████░░░░░░░░░░░░░░░░   34.39 % 
-Git Config               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Markdown                 37 mins             ███████████░░░░░░░░░░░░░░   43.66 % 
+C#                       21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+Binary                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Git Config               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Claude Code              49 mins             ███████████████████░░░░░░   77.20 % 
-Visual Studio            14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Claude Code              56 mins             ████████████████░░░░░░░░░   66.00 % 
+Visual Studio            28 mins             ████████░░░░░░░░░░░░░░░░░   33.64 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-Somtum-Anticheat-Hook    36 mins             ██████████████░░░░░░░░░░░   57.37 % 
-MindTheNerd              14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-osu-tumthai              12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-bancho.py                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Somtum-Anticheat-Hook    36 mins             ███████████░░░░░░░░░░░░░░   42.71 % 
+osu-tumthai              26 mins             ████████░░░░░░░░░░░░░░░░░   31.27 % 
+MindTheNerd              22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+bancho.py                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   99.51 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Windows                  1 hr 25 mins        █████████████████████████   99.64 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 
- Last Updated on 03/10/2026 03:29:58 UTC
+ Last Updated on 04/10/2026 03:58:17 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
