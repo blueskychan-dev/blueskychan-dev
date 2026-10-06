@@ -31,31 +31,29 @@
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.02 % 
-Markdown                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-XML                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Binary                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-C                        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+C#                       2 hrs 47 mins       █████████████░░░░░░░░░░░░   50.95 % 
+Markdown                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+XML                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Binary                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+C                        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 13 mins       █████████████████████░░░░   83.35 % 
-Visual Studio            50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Claude Code              4 hrs 37 mins       █████████████████████░░░░   84.64 % 
+Visual Studio            50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 
 🐱‍💻 Projects: 
-MindTheNerd              2 hrs 49 mins       ██████████████░░░░░░░░░░░   55.75 % 
-Somtum-Anticheat-Hook    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-osu-tumthai              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-titanic-client           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-hook-master              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+MindTheNerd              3 hrs 13 mins       ███████████████░░░░░░░░░░   59.05 % 
+Somtum-Anticheat-Hook    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+osu-tumthai              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+titanic-client           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+hook-master              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 💻 Operating System: 
-Windows                  5 hrs 3 mins        █████████████████████████   99.90 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/10/2026 03:43:06 UTC
+ Last Updated on 06/10/2026 04:31:02 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
