@@ -31,29 +31,29 @@
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 47 mins       █████████████░░░░░░░░░░░░   50.95 % 
-Markdown                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-XML                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Binary                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-C                        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+C#                       2 hrs 47 mins       ████████████░░░░░░░░░░░░░   49.94 % 
+Markdown                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+XML                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Binary                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+C                        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 37 mins       █████████████████████░░░░   84.64 % 
-Visual Studio            50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Claude Code              4 hrs 37 mins       █████████████████████░░░░   82.98 % 
+Visual Studio            56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 
 🐱‍💻 Projects: 
-MindTheNerd              3 hrs 13 mins       ███████████████░░░░░░░░░░   59.05 % 
-Somtum-Anticheat-Hook    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-osu-tumthai              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-titanic-client           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-hook-master              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+MindTheNerd              3 hrs 13 mins       ██████████████░░░░░░░░░░░   57.89 % 
+Somtum-Anticheat-Hook    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+osu-tumthai              37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+titanic-client           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+hook-master              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 💻 Operating System: 
-Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/10/2026 04:31:02 UTC
+ Last Updated on 07/10/2026 03:56:57 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
