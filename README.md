@@ -31,29 +31,25 @@
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 25 mins       ███████████████░░░░░░░░░░   58.28 % 
-XML                      43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-C                        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+C#                       24 mins             ████████████████████░░░░░   78.46 % 
+XML                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 40 mins       ██████████████████████░░░   88.73 % 
-Visual Studio            28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Claude Code              24 mins             ████████████████████░░░░░   78.46 % 
+Visual Studio            6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
 
 🐱‍💻 Projects: 
-MindTheNerd              2 hrs 51 mins       █████████████████░░░░░░░░   68.93 % 
-titanic-client           29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-hook-master              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-pad-krapow-mu-sap-injecto13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-osu-tumthai              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+MindTheNerd              24 mins             ████████████████████░░░░░   78.46 % 
+osu-tumthai              5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+osu                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 💻 Operating System: 
-Windows                  4 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/10/2026 03:35:37 UTC
+ Last Updated on 12/10/2026 03:59:32 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
