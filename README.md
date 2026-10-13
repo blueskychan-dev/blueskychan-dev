@@ -31,25 +31,22 @@
 
 ```text
 💬 Programming Languages: 
-C#                       24 mins             ████████████████████░░░░░   78.46 % 
-XML                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+XML                      6 mins              ████████████████████████░   95.91 % 
+Binary                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-Claude Code              24 mins             ████████████████████░░░░░   78.46 % 
-Visual Studio            6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Visual Studio            6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MindTheNerd              24 mins             ████████████████████░░░░░   78.46 % 
-osu-tumthai              5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-osu                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+osu-tumthai              5 mins              █████████████████████░░░░   82.51 % 
+osu                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/10/2026 03:59:32 UTC
+ Last Updated on 13/10/2026 05:08:56 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
