@@ -31,22 +31,21 @@
 
 ```text
 💬 Programming Languages: 
-XML                      6 mins              ████████████████████████░   95.91 % 
-Binary                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+XML                      0 secs              ██████████████████████░░░   87.73 % 
+Binary                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 
 🔥 Editors: 
-Visual Studio            6 mins              █████████████████████████   100.00 % 
+Visual Studio            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-osu-tumthai              5 mins              █████████████████████░░░░   82.51 % 
-osu                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+osu-tumthai              0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/10/2026 05:08:56 UTC
+ Last Updated on 14/10/2026 03:15:15 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
