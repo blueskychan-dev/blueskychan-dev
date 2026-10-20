@@ -31,20 +31,28 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     1 hr 3 mins         ███████████████░░░░░░░░░░   60.47 % 
+Python                   38 mins             █████████░░░░░░░░░░░░░░░░   36.99 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity CLI          1 hr 44 mins        █████████████████████████   99.83 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+crackdown                57 mins             ██████████████░░░░░░░░░░░   55.20 % 
+76C2-D91E                22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+decompile                15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+FINAL_REPORT_AND_SAMPLES 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+mind                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/10/2026 02:57:27 UTC
+ Last Updated on 20/10/2026 03:07:04 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
