@@ -31,28 +31,30 @@
 
 ```text
 💬 Programming Languages: 
-Text                     1 hr 3 mins         ███████████████░░░░░░░░░░   60.47 % 
-Python                   38 mins             █████████░░░░░░░░░░░░░░░░   36.99 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Text                     1 hr 40 mins        ████████████████░░░░░░░░░   65.62 % 
+Python                   38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 44 mins        █████████████████████████   99.83 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Antigravity CLI          2 hrs 27 mins       ████████████████████████░   96.53 % 
+Vscodium                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-crackdown                57 mins             ██████████████░░░░░░░░░░░   55.20 % 
-76C2-D91E                22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-decompile                15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-FINAL_REPORT_AND_SAMPLES 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-mind                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+crackdown                1 hr 33 mins        ███████████████░░░░░░░░░░   61.27 % 
+76C2-D91E                22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+decompile                15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+FINAL_REPORT_AND_SAMPLES 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+mind                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 💻 Operating System: 
-Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/10/2026 03:07:04 UTC
+ Last Updated on 21/10/2026 03:01:33 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
