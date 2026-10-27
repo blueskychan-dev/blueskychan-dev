@@ -31,30 +31,26 @@
 
 ```text
 💬 Programming Languages: 
-Text                     1 hr 40 mins        ████████████████░░░░░░░░░   65.62 % 
-Python                   38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Text                     36 mins             ███████████████████░░░░░░   76.98 % 
+Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-Antigravity CLI          2 hrs 27 mins       ████████████████████████░   96.53 % 
-Vscodium                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Antigravity CLI          42 mins             ██████████████████████░░░   89.24 % 
+Vscodium                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 
 🐱‍💻 Projects: 
-crackdown                1 hr 33 mins        ███████████████░░░░░░░░░░   61.27 % 
-76C2-D91E                22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-decompile                15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-FINAL_REPORT_AND_SAMPLES 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-mind                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+crackdown                35 mins             ███████████████████░░░░░░   74.66 % 
+mind                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+FINAL_REPORT_AND_SAMPLES 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+win11-crackdown          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 💻 Operating System: 
-Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    47 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/10/2026 02:53:05 UTC
+ Last Updated on 27/10/2026 03:26:04 UTC
 <!--END_SECTION:waka-->
 
 # ✈️ My Social Media
